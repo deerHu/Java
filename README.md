@@ -5,7 +5,7 @@ Java && 相关知识点汇总，知其然知其所以然。
 
 * Java
 	* 关键字拾遗
-	* 集合
+	* [Collections](https://github.com/deerHu/JavaForMe/blob/master/Java/Collections/Collections.md)
 	* 多线程
 	* JVM
 * Spring
